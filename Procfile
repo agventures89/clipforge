@@ -1,1 +1,1 @@
-web: python3 license_server.py serve --port $PORT
+web: python3 server.py
